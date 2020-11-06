@@ -114,7 +114,7 @@ Youtube video presentation: https://www.youtube.com/watch?v=gv8xpdGdS4o
 
 # WebRTC Video Conferencing Demos
 
-* Simple Demo: https://rtcmulticonnection.herokuapp.com/demos/Video-Conferencing.html
+* Simple Demo: https://rtcmulticonnection.herokuapp.com/demos/video-conferencing.html
 
 ----
 
